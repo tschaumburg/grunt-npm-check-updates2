@@ -2,6 +2,7 @@
     "name": "grunt-npm-check-updates2",
     "version": "1.0.0",
     "description": "grunt-npm-check-updates2",
+    "repository": "https://github.com/tschaumburg/grunt-npm-check-updates2",
     "author": {
         "name": "Thomas Schaumburg",
         "email": "thomas@schaumburg-it.dk"
