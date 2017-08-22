@@ -1,6 +1,6 @@
 {
     "name": "grunt-npm-check-updates2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "grunt-npm-check-updates2",
     "repository": "https://github.com/tschaumburg/grunt-npm-check-updates2",
     "author": {
