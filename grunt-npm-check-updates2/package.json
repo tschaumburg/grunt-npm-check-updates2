@@ -1,9 +1,17 @@
 {
-  "name": "grunt-npm-check-updates2",
-  "version": "0.0.0",
-  "description": "grunt-npm-check-updates2",
-  "main": "app.js",
-  "author": {
-    "name": "Thomas"
-  }
+    "name": "grunt-npm-check-updates2",
+    "version": "1.0.0",
+    "description": "grunt-npm-check-updates2",
+    "author": {
+        "name": "Thomas Schaumburg",
+        "email": "thomas@schaumburg-it.dk"
+    },
+    "dependencies": {
+        "npm-check-updates": "^2.12.1"
+    },
+    "devDependencies": {
+        "@types/jquery": "^2.0.48",
+        "@types/node": "^8.0.24",
+        "grunt": "^1.0.1"
+    }
 }

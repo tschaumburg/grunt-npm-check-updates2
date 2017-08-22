@@ -1,0 +1,6 @@
+{
+    "version": "0.0.0",
+    "dependencies": {
+        "breezets": "^0.2.7"
+    }
+}
